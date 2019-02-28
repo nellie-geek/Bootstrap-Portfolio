@@ -1,0 +1,35 @@
+/* General style */
+header {
+    background: rgb(112, 12, 70);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+
+}
+
+footer {
+    text-align: center;
+    font-size: 10px;
+    background: rgb(85, 83, 83);
+    border-top: 3px;
+    border-top-color: rgb(112, 12, 70);
+
+}
+
+/* index */
+
+body {
+    background: lightgray;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.main-container {
+    padding-top: 25px;
+}
+
+.p2 {
+    float: left;
+
+}
+
